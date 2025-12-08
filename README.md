@@ -14,8 +14,8 @@ Social_Network_Analysis/
 │
 ├── Assignment 1 Code.R       # R script for Assignment 1
 ├── Assignment 2 Code.R       # R script for Assignment 2
-├── Assignment 1.pdf          # Report for Assignment 1
-└── Assignment 2.pdf          # Report for Assignment 2
+├── Assignment 1 Report.pdf          # Report for Assignment 1
+└── Assignment 2 Report.pdf          # Report for Assignment 2
 ```
 
 ---
